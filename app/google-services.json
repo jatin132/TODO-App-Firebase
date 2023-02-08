@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302673871027",
+    "project_id": "to-dolistfirebase",
+    "storage_bucket": "to-dolistfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302673871027:android:e0aa833b0f2b54f6ec70c6",
+        "android_client_info": {
+          "package_name": "com.myapplication.to_dolistfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302673871027-v39nps1s4tt9a9ecoh6bai2gdqs5l8h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcevEtlgn2BNFchfJSXlAhgKuN15cYdXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302673871027-v39nps1s4tt9a9ecoh6bai2gdqs5l8h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
